@@ -1,0 +1,359 @@
+Linear Regression
+Ridge Regression
+Lasso Regression
+Elastic Net
+Polynomial Regression
+Logistic Regression
+Multinomial Logistic Regression
+Ordinal Logistic Regression
+Stepwise Regression
+Bayesian Linear Regression
+Gaussian Process Regression
+Support Vector Regression
+Decision Tree Regression
+Random Forest Regression
+Gradient Boosting Regression
+XGBoost Regression
+LightGBM Regression
+CatBoost Regression
+Neural Network Regression
+K-Nearest Neighbors Regression
+Gaussian Mixture Model Regression
+Quantile Regression
+Robust Regression
+Isotonic Regression
+Poisson Regression
+Cox Proportional Hazards Model
+Survival Analysis
+Time Series Regression
+Vector Autoregression (VAR)
+ARIMA
+SARIMA
+Exponential Smoothing
+Prophet (Facebook)
+LSTM Forecasting
+GRU Forecasting
+Temporal Convolutional Network
+Transformer Time Series
+N-BEATS
+DeepAR
+TFT (Temporal Fusion Transformer)
+Decision Tree
+Random Forest
+Extra Trees
+Gradient Boosting Machine
+XGBoost
+LightGBM
+CatBoost
+AdaBoost
+Histogram-Based Gradient Boosting
+Stochastic Gradient Boosting
+Support Vector Machine (SVM)
+Nu-SVM
+Linear SVM
+Kernel SVM (RBF, Polynomial, Sigmoid)
+One-Class SVM
+Relevance Vector Machine
+Naive Bayes
+Gaussian Naive Bayes
+Multinomial Naive Bayes
+Bernoulli Naive Bayes
+Complement Naive Bayes
+Categorical Naive Bayes
+K-Nearest Neighbors (KNN)
+Radius Neighbors
+Nearest Centroid
+Nearest Shrunken Centroids
+Linear Discriminant Analysis (LDA)
+Quadratic Discriminant Analysis (QDA)
+Regularized Discriminant Analysis
+Flexible Discriminant Analysis
+Mixture Discriminant Analysis
+Neural Networks
+Multilayer Perceptron (MLP)
+Radial Basis Function Network
+Self-Organizing Map (SOM)
+Restricted Boltzmann Machine (RBM)
+Deep Belief Network (DBN)
+Autoencoder
+Denoising Autoencoder
+Sparse Autoencoder
+Variational Autoencoder (VAE)
+Contractive Autoencoder
+Convolutional Neural Network (CNN)
+LeNet
+AlexNet
+VGGNet
+GoogLeNet (Inception)
+ResNet
+DenseNet
+MobileNet
+EfficientNet
+Vision Transformer (ViT)
+Swin Transformer
+ConvNeXt
+Recurrent Neural Network (RNN)
+Long Short-Term Memory (LSTM)
+Gated Recurrent Unit (GRU)
+Bidirectional RNN
+Deep RNN
+Echo State Network
+Neural Turing Machine
+Differentiable Neural Computer
+Transformer
+BERT
+RoBERTa
+DistilBERT
+ALBERT
+ELECTRA
+DeBERTa
+T5
+BART
+GPT
+GPT-2
+GPT-3
+GPT-4
+LLaMA
+LLaMA 2
+Mistral
+Mixtral
+Gemma
+PaLM
+PaLM 2
+Gemini
+Claude
+Claude 2
+Claude 3
+Qwen
+Yi
+Phi
+Phi-2
+Falcon
+BLOOM
+OPT
+Flan-T5
+UL2
+Whisper
+DALL-E
+DALL-E 2
+DALL-E 3
+Stable Diffusion
+Imagen
+Parti
+Midjourney (concept)
+K-Means Clustering
+Mini-Batch K-Means
+K-Medoids
+K-Medians
+Gaussian Mixture Model (GMM)
+Expectation-Maximization (EM)
+DBSCAN
+HDBSCAN
+OPTICS
+Mean Shift
+Affinity Propagation
+Spectral Clustering
+Agglomerative Clustering
+BIRCH
+Ward Clustering
+Hierarchical Clustering
+Self-Organizing Maps (Clustering)
+Principal Component Analysis (PCA)
+Kernel PCA
+Sparse PCA
+Incremental PCA
+Truncated SVD
+Factor Analysis
+Independent Component Analysis (ICA)
+Non-negative Matrix Factorization (NMF)
+Linear Discriminant Analysis (LDA - dimensionality)
+t-Distributed Stochastic Neighbor Embedding (t-SNE)
+Uniform Manifold Approximation and Projection (UMAP)
+Isomap
+Locally Linear Embedding (LLE)
+Modified LLE
+Hessian LLE
+LTSA (Local Tangent Space Alignment)
+Multidimensional Scaling (MDS)
+Random Projection
+Feature Agglomeration
+Q-Learning
+Deep Q-Network (DQN)
+Double DQN
+Dueling DQN
+Prioritized Experience Replay
+Rainbow DQN
+Policy Gradients
+REINFORCE
+Actor-Critic
+A2C (Advantage Actor-Critic)
+A3C (Asynchronous Advantage Actor-Critic)
+PPO (Proximal Policy Optimization)
+TRPO (Trust Region Policy Optimization)
+DDPG (Deep Deterministic Policy Gradient)
+TD3 (Twin Delayed DDPG)
+SAC (Soft Actor-Critic)
+IMPALA
+R2D2
+Dreamer
+World Models
+Graph Neural Networks (GNN)
+GCN (Graph Convolutional Network)
+GAT (Graph Attention Network)
+GraphSAGE
+GIN (Graph Isomorphism Network)
+MPNN (Message Passing Neural Network)
+RGCN (Relational GCN)
+KGAT (Knowledge Graph Attention)
+Federated Learning
+Federated Averaging (FedAvg)
+Federated SGD
+Secure Aggregation
+Differential Privacy in FL
+Meta-Learning
+MAML (Model-Agnostic Meta-Learning)
+Reptile
+Prototypical Networks
+Matching Networks
+Relation Networks
+Few-Shot Learning
+Zero-Shot Learning
+One-Shot Learning
+N-Shot Learning
+Self-Supervised Learning
+Contrastive Learning
+SimCLR
+MoCo (Momentum Contrast)
+BYOL (Bootstrap Your Own Latent)
+SwAV (Swapping Assignments between Views)
+DINO
+Barlow Twins
+VICReg
+Masked Autoencoders (MAE)
+BEiT
+SimMIM
+Prompt Engineering
+Prompt Tuning
+Prefix Tuning
+LoRA (Low-Rank Adaptation)
+Adapter Modules
+Chain-of-Thought Prompting
+Tree-of-Thought Prompting
+Retrieval-Augmented Generation (RAG)
+DPR (Dense Passage Retrieval)
+ColBERT
+ANCE
+HyDE (Hypothetical Document Embeddings)
+Diffusion Models
+DDPM (Denoising Diffusion Probabilistic Models)
+DDIM (Denoising Diffusion Implicit Models)
+Score-Based Generative Models
+Latent Diffusion Models
+ControlNet
+DreamBooth
+Textual Inversion
+LoRA for Diffusion
+Segment Anything Model (SAM)
+Grounded-SAM
+YOLO (v1 to v8)
+SSD (Single Shot Detector)
+Faster R-CNN
+Mask R-CNN
+DETR (Detection Transformer)
+Conditional DETR
+DINO
+PointNet
+PointNet++
+PointCNN
+KPConv
+Bayesian Optimization
+Gaussian Processes
+Tree-structured Parzen Estimator (TPE)
+SMAC
+Hyperband
+BOHB
+Optuna
+Ray Tune
+Scikit-Optimize
+SHAP (SHapley Additive exPlanations)
+LIME (Local Interpretable Model-agnostic Explanations)
+Integrated Gradients
+Grad-CAM
+Attention Visualization
+Counterfactual Explanations
+Anchors
+Feature Importance (Permutation, SHAP)
+Model Cards
+AI Fairness 360
+Fairlearn
+TensorFlow Privacy
+Opacus (PyTorch DP)
+Homomorphic Encryption (concept)
+Secure Multi-Party Computation (concept)
+Physics-Informed Neural Networks (PINNs)
+Neural ODEs
+Neural SDEs
+Neural PDEs
+Neural Radiance Fields (NeRF)
+Instant-NGP
+3D Gaussian Splatting
+DreamFusion
+Magic3D
+ControlNet
+T2I-Adapter
+IP-Adapter
+Stable Video Diffusion
+AnimateDiff
+Sora (concept)
+Whisper
+Wav2Vec 2.0
+HuBERT
+Data2Vec
+SEW
+SEW-D
+UniSpeech
+SpeechT5
+Parakeet
+FastSpeech
+Tacotron 2
+WaveNet
+WaveGlow
+MelGAN
+HiFi-GAN
+StyleGAN
+StyleGAN2
+StyleGAN3
+BigGAN
+Progressive GAN
+CycleGAN
+Pix2Pix
+StarGAN
+DiscoGAN
+InfoGAN
+Wasserstein GAN (WGAN)
+WGAN-GP
+Spectral Normalization GAN
+CGAN (Conditional GAN)
+ACGAN (Auxiliary Classifier GAN)
+EBGAN (Energy-Based GAN)
+LSGAN (Least Squares GAN)
+Boundary-Seeking GAN
+Capsule Networks
+Dynamic Routing
+EM Routing
+Neural Architecture Search (NAS)
+ENAS
+DARTS
+PNAS
+ProxylessNAS
+Once-For-All (OFA)
+AutoKeras
+TPOT
+H2O AutoML
+Auto-sklearn
+TransTab
+TabNet
+NODE (Neural Oblivious Decision Ensembles)
+DeepGBM
+SAINT
+FT-Transformer
