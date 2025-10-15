@@ -2,7 +2,7 @@
 from datetime import datetime, timedelta
 import json
 
-START_DATE = datetime(2025, 10, 13)  # Monday, Oct 13, 2025
+START_DATE = datetime(2025, 10, 20)  # Monday, Oct 20, 2025
 WORD = "SANIA"
 
 # Pixel font (7 rows x 5 columns)
